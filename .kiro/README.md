@@ -76,7 +76,6 @@ Both formats are included for maximum compatibility.
 3. Select an agent to switch (e.g., `code-reviewer` after writing code)
 4. Or start with a specific agent: `kiro-cli --agent planner`
 
-
 ### Skills
 
 Skills are on-demand workflows invocable via the `/` menu in chat.
@@ -593,14 +592,10 @@ For more detailed information, see the `docs/` directory:
 - **[Shortform Guide](docs/shortform-guide.md)** - Quick reference for common tasks
 - **[Security Guide](docs/security-guide.md)** - Comprehensive security best practices
 
-
-
 ## Contributers
 
 - Himanshu Sharma [@ihimanss](https://github.com/ihimanss)
 - Sungmin Hong [@aws-hsungmin](https://github.com/aws-hsungmin)
-
-
 
 ## License
 

@@ -70,15 +70,11 @@ Generated: $(date)
 
 CAPABILITY EVALS
 ----------------
-[eval-1]: PASS (pass@1)
 [eval-2]: PASS (pass@2) - required retry
 [eval-3]: FAIL - see notes
 
 REGRESSION EVALS
 ----------------
-[test-1]: PASS
-[test-2]: PASS
-[test-3]: PASS
 
 METRICS
 -------

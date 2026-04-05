@@ -76,8 +76,6 @@
 
 社区影响指南的灵感来源于 [Mozilla 的行为准则执行阶梯](https://github.com/mozilla/diversity)。
 
-[homepage]: https://www.contributor-covenant.org
-
 关于本行为准则的常见问题解答，请参阅 FAQ 页面：
 <https://www.contributor-covenant.org/faq>。其他语言翻译版本可在
 <https://www.contributor-covenant.org/translations> 查阅。

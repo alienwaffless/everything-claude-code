@@ -27,7 +27,6 @@ def get_active_users(users: list[User]) -> list[User]:
     """Sağlanan listeden sadece aktif kullanıcıları döndür."""
     return [user for user in users if user.is_active]
 
-
 # Kötü: Zeki ama kafa karıştırıcı
 def get_active_users(u):
     return [x for x in u if x.a]
