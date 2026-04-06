@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File install.ps1 typescript python --dry-run)",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File install.ps1 typescript python)",
+      "Bash(npx ccg-workflow:*)"
+    ]
+  }
+}
